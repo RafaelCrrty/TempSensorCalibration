@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="images">
+    <file>patron_blanco.png</file>
+    <file>logo_uni_unam.png</file>
+  </qresource>
+</RCC>
